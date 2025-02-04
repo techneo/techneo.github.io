@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Techno's Blog
+published
 ---
 
 ## Projects
